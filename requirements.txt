@@ -1,8 +1,9 @@
 streamlit
-chromadb==0.5.23
+pysqlite3-binary
+chromadb
 ollama
 langchain-core
 sentence-transformers
 torch
 transformers
-pysqlite3-binary
+
