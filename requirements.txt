@@ -5,3 +5,4 @@ langchain-core
 sentence-transformers
 torch
 transformers
+pysqlite3-binary
