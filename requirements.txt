@@ -1,5 +1,5 @@
 streamlit
-chromadb==0.3.29
+chromadb====0.5.23
 ollama
 langchain-core
 sentence-transformers
